@@ -1,0 +1,30 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44, 139, 44);
+    /* background-color: rgb(150, 150, 18) */
+    background-color: black;
+}
+
+#novojogo{
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    background: rgb(44, 139, 44);
+}
+
+@media(max-width: 1024px){
+    #snake{
+        width: 90%;
+    }
+}
+
+@media(max-width: 650px){
+    #snake{
+        width: 90%;
+    }
+}
