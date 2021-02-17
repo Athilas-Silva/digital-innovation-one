@@ -12,4 +12,4 @@ Minha página:
 
 Jogo da Cobrinha:
 
-- [Snake Game]()
+- [Snake Game](https://athilas-silva.github.io/digital-innovation-one/cobrinha/index.html)
