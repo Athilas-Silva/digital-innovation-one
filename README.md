@@ -8,8 +8,8 @@ Clone da página de login do Instagram, baseada na aula da [Gabriela Pinheiro](h
 
 Minha página:
 
-- [Instagram](https://athilas-silva.github.io/digital-innovation-one/instragram/index.html)
+- [Instagram](https://athilas-silva.github.io/digital-innovation-one/instagram/index.html)
 
 Jogo da Cobrinha:
 
-- [Snake Game](https://athilas-silva.github.io/digital-innovation-one/cobrinha/index.html)
+- [Snake Game]()
