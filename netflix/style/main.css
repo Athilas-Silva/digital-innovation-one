@@ -13,7 +13,7 @@
 /* Body com cor definida na variavel e estilo da letra */
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 /* Espaço entre os links e centralização */
@@ -101,9 +101,13 @@ header nav a:hover{
 .filme-principal .container{
     width: 70%;
 }
-
+/* Tamanho e formato de ocupação da caixa */
 .box-filme{
     height: 100%;
     width: 100%;
     display: block;
+}
+/* Espaço entre as imagens no carrosel */
+.carrosel-filmes{
+    margin-top: 5px;
 }
