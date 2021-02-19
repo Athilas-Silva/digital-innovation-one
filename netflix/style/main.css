@@ -1,0 +1,109 @@
+/* Declarando variavel no CSS */
+:root{
+    --vermelho: #e50914;
+    --preta: #141414;
+}
+/* Elementos da base */
+/* margin e padding padrao com 0px e caixa para todos os elementos*/
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* Body com cor definida na variavel e estilo da letra */
+body{
+    background: var(--preta);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+/* Espaço entre os links e centralização */
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Cor do logo da netflix com estilo da letra e tamanho */
+.logo{
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times;
+    font-size: 40px;
+}
+
+/* Retirando a linha sublinhada dos links */
+header nav a{
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+/* Evento do mouse quando estiver em cima do link para mudar de cor */
+header nav a:hover{
+    color: #fff;
+}
+
+/* Filme Principal */
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url(../img/cartaz2.jpg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+/* Espaço dos botoes com o texto de descrição */
+.descricao{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+/* Tamanho do titulo da minha serie */
+.titulo{
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+/* Tamanho dos botoes e cor dos botoes  */
+.botao{
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+/* Alterando as cores dos botoes quando o mouse entra em contato */
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+/* Espaço dos icones para o texto */
+.botao i{
+    margin-right: 8px;
+}
+
+/* Margen do container */
+.container{
+    margin-left: 20px;
+}
+
+/* Largura do texto do container */
+.filme-principal .container{
+    width: 70%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
