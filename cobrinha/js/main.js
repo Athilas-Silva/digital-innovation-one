@@ -7,7 +7,7 @@ snake[0] = {
     y: 8 * caixa
 }
 
-var direcao = "right";
+var direcao = "";
 let food = {
     x: Math.floor(Math.random() * 15 + 1) * caixa,
     y: Math.floor(Math.random() * 15 + 1) * caixa
