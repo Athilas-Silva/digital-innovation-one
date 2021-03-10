@@ -2,8 +2,6 @@
 
 <h3>Repositório para os projetos desenvolvidos na Digital Innovation One</h3>
 
-![Badge](https://img.shields.io/badge/HTML-html-orange)
-
 Bootcamps: HTML Web Developer
 
 Link para se inscrever: [DIO](https://digitalinnovation.one/)
