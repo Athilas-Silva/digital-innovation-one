@@ -32,6 +32,9 @@ O repositório ainda conta com projetos em C# desenvolvidos durante o Bootcamp .
 ##
 
 <h2 align="center">Tecnologias Usadas</h2>
+
 - [Visual Studio Code](https://code.visualstudio.com/)
+
 - Asp.Net 5 - version 5.0.103
+
 - Html, Css, Js
