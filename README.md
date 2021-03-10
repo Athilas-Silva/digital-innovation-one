@@ -6,9 +6,9 @@ Bootcamps: HTML Web Developer
 
 Link para se inscrever: [DIO](https://digitalinnovation.one/)
 
-Clone da página de login do Instagram, baseada na aula da [Gabriela Pinheiro](https://github.com/SpruceGabriela)
+Projetos desenvolvidos com orientação da professora [Gabriela Pinheiro](https://github.com/SpruceGabriela) e o professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
-Minha página:
+Página de Login:
 
 - [Instagram](https://athilas-silva.github.io/digital-innovation-one/instagram/index.html)
 
