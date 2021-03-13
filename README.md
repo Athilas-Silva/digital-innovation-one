@@ -19,20 +19,3 @@ Jogo da Cobrinha:
 Clone da Netflix:
 
 - [Netflix Clone](https://athilas-silva.github.io/digital-innovation-one/netflix/index.html)
-##
-
-<h3 align="center">Projetos em C#</h3>
-
-O repositório ainda conta com projetos em C# desenvolvidos durante o Bootcamp .Net Fundamentals
-- Transferência de contas bancarias
-- Cadastro de Séries
-
-##
-
-<h2 align="center">Tecnologias Usadas</h2>
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-
-- Asp.Net 5 - version 5.0.103
-
-- Html, Css, Js
