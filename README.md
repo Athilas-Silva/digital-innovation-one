@@ -19,3 +19,7 @@ Jogo da Cobrinha:
 Clone da Netflix:
 
 - [Netflix Clone](https://athilas-silva.github.io/digital-innovation-one/netflix/index.html)
+
+Resgate do Soldado:
+
+- [Resgate](https://athilas-silva.github.io/digital-innovation-one/resgate-dio/index.html)
