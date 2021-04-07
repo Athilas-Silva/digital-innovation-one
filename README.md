@@ -23,3 +23,7 @@ Clone da Netflix:
 Resgate do Soldado:
 
 - [Resgate](https://athilas-silva.github.io/digital-innovation-one/resgate-dio/index.html)
+
+Jodo da Memória:
+
+- [Genius](https://athilas-silva.github.io/digital-innovation-one/jogo-da-memoria/index.html)
