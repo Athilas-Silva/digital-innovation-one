@@ -65,6 +65,7 @@ function createCactus(){
             //Game Over
             clearInterval(leftInterval);
             document.body.innerHTML = "<h1 class='game-over'>Fim de Jogo</h1>"
+
             const btn = document.createElement("button");
             btn.innerHTML = "Novo Jogo";
             btn.setAttribute("type", "button");
