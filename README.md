@@ -30,4 +30,4 @@ Jodo da Memória:
 
 Dino Game:
 
--[Dino Game](https://athilas-silva.github.io/digital-innovation-one/dino-game/index.html)
+- [Dino Game](https://athilas-silva.github.io/digital-innovation-one/dino-game/index.html)
