@@ -27,3 +27,7 @@ Resgate do Soldado:
 Jodo da Memória:
 
 - [Genius](https://athilas-silva.github.io/digital-innovation-one/jogo-da-memoria/index.html)
+
+Dino Game:
+
+-[Dino Game](https://athilas-silva.github.io/digital-innovation-one/dino-game/index.html)
