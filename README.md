@@ -24,10 +24,14 @@ Resgate do Soldado:
 
 - [Resgate](https://athilas-silva.github.io/digital-innovation-one/resgate-dio/index.html)
 
-Jodo da Memória:
+Genius Game:
 
-- [Genius](https://athilas-silva.github.io/digital-innovation-one/jogo-da-memoria/index.html)
+- [Genius](https://athilas-silva.github.io/digital-innovation-one/genius-game/index.html)
 
 Dino Game:
 
 - [Dino Game](https://athilas-silva.github.io/digital-innovation-one/dino-game/index.html)
+
+Jogo da Memória:
+
+- [Jogo da Memória](https://athilas-silva.github.io/digital-innovation-one/jogo-da-memoria/index.html)
