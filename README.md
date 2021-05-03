@@ -35,3 +35,6 @@ Dino Game:
 Jogo da Memória:
 
 - [Jogo da Memória](https://athilas-silva.github.io/digital-innovation-one/jogo-da-memoria/index.html)
+
+Jogo da Velha:
+- [Jogo da Velha](https://athilas-silva.github.io/digital-innovation-one/jogo-da-velha/index.html)
