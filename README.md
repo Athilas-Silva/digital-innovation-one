@@ -1,12 +1,17 @@
 <h2 align="center">Digital Innovation One</h2>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71888055/117300447-ef937580-ae4f-11eb-93fd-56a9072f310b.png">
+</p>
+
+
 <h3>Repositório para os projetos desenvolvidos na Digital Innovation One</h3>
 
-Bootcamps: HTML Web Developer
+Bootcamps: HTML Web Developer e JavaScript Game Developer
 
 Link para se inscrever: [DIO](https://digitalinnovation.one/)
 
-Projetos desenvolvidos com orientação da professora [Gabriela Pinheiro](https://github.com/SpruceGabriela) e o professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Projetos desenvolvidos com orientações dos professores(as) [Gabriela Pinheiro](https://github.com/SpruceGabriela), [Felipe Aguiar](https://github.com/felipeAguiarCode) e o [Vitor Ruschoni](https://github.com/ruschoni02)
 
 Página de Login:
 
