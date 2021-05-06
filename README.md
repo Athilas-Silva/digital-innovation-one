@@ -12,6 +12,10 @@ Cadastre-se na [DIO](https://digitalinnovation.one/) para cursos gratuitos de pr
 
 Projetos desenvolvidos com orientações dos professores(as) [Gabriela Pinheiro](https://github.com/SpruceGabriela), [Felipe Aguiar](https://github.com/felipeAguiarCode) e o [Vitor Ruschoni](https://github.com/ruschoni02)
 
+##
+
+#### HTML Web Developer
+
 Página de Login:
 
 - [Instagram](https://athilas-silva.github.io/digital-innovation-one/instagram/index.html)
@@ -23,6 +27,10 @@ Jogo da Cobrinha:
 Clone da Netflix:
 
 - [Netflix Clone](https://athilas-silva.github.io/digital-innovation-one/netflix/index.html)
+
+##
+
+#### JavaScript Game Developer
 
 Resgate do Soldado:
 
