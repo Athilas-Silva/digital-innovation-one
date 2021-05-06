@@ -1,7 +1,7 @@
 <h2 align="center">Digital Innovation One</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71888055/117300447-ef937580-ae4f-11eb-93fd-56a9072f310b.png">
+  <img src="https://user-images.githubusercontent.com/71888055/117300953-7e07f700-ae50-11eb-8637-30714c1f9c0b.png">
 </p>
 
 
