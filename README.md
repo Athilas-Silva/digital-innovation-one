@@ -54,8 +54,12 @@ Jogo da Velha:
 Mario Challenge:
 - [Game Colors](https://athilas-silva.github.io/digital-innovation-one/color-game/index.html)
 
-#### Aplicações em React
+#### Aplicações em React ⚛️⚛️
+
+Essa aplicação usa API do Google de localização para localizar restaurantes próximos a sua localização:
 
 - [Busca de restaurantes](https://github.com/Athilas-Silva/digital-innovation-one/tree/main/search-restaurant)
+
+Essa aplicação usa uma API que recolhe informações ao redor do mundo sobre infecções do coronavirus:
 
 - [Covid19](https://github.com/Athilas-Silva/digital-innovation-one/tree/main/covid19-world)
