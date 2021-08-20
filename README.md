@@ -50,3 +50,12 @@ Jogo da Memória:
 
 Jogo da Velha:
 - [Jogo da Velha](https://athilas-silva.github.io/digital-innovation-one/jogo-da-velha/index.html)
+
+Mario Challenge:
+- [Game Colors](https://athilas-silva.github.io/digital-innovation-one/color-game/index.html)
+
+#### Aplicações em React
+
+- [Busca de restaurantes](https://github.com/Athilas-Silva/digital-innovation-one/tree/main/search-restaurant)
+
+- [Covid19](https://github.com/Athilas-Silva/digital-innovation-one/tree/main/covid19-world)
