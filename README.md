@@ -54,7 +54,9 @@ Jogo da Velha:
 Mario Challenge:
 - [Game Colors](https://athilas-silva.github.io/digital-innovation-one/color-game/index.html)
 
-#### Aplicações em React ⚛️⚛️
+##
+
+#### LocalizaLabs React Developer ⚛️⚛️
 
 Essa aplicação usa API do Google de localização para localizar restaurantes próximos a sua localização:
 
