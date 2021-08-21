@@ -63,3 +63,7 @@ Essa aplicação usa API do Google de localização para localizar restaurantes 
 Essa aplicação usa uma API que recolhe informações ao redor do mundo sobre infecções do coronavirus:
 
 - [Covid19](https://github.com/Athilas-Silva/digital-innovation-one/tree/main/covid19-world)
+
+Essa aplicação usa uma API do Github que tras informações do usuário pesquisado, como repositórios, informações públicas de perfil e repositórios com estrelas:
+
+- [Github API](https://github.com/Athilas-Silva/digital-innovation-one/tree/main/github-api)
